@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  kilometers: 1
+  startDate: 2023-05-20 22:32:21
+  endDate: 2023-05-20 22:32:21
+
+two:
+  kilometers: 1
+  startDate: 2023-05-20 22:32:21
+  endDate: 2023-05-20 22:32:21
